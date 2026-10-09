@@ -1,4 +1,4 @@
-# Pharmacy Sales Analytics Dashboard
+# Pharmacy Sales Analytics Dashboard AI
 
 A full-stack pharmacy sales analytics web application built with FastAPI + SQLite (backend) and React + TypeScript + Recharts (frontend).
 
